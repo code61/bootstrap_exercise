@@ -1,0 +1,68 @@
+
+.jumbotron {
+  padding-top: 70px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-image: url('images/fruit-and-veg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  font-family: 'Vast Shadow', cursive;
+  color: white;
+  margin-bottom: 1em;
+}
+
+
+blockquote {
+  border-left: 0;
+}
+
+#mission {
+  background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  padding-bottom: 40px;
+}
+.jumbotron .form-group {
+  line-height: 1em;
+}
+
+.jumbotron label {
+  color: white;
+}
+.jumbotron img {
+  margin-top: 50px;
+}
+h2 {
+  margin-bottom: 1.5em;
+}
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+
+.form-inline input[name='email'] {
+  width: 80%;
+}
+#social-buttons {
+  margin-top: 50px;
+}
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
