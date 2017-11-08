@@ -1,0 +1,41 @@
+.jumbotron {
+  min-height: 600px;
+  background-image: url(images/fruit-and-veg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  font-family: 'Vast Shadow', cursive;
+  margin: 1em;
+  color: white;
+  font-size: 36px;
+}
+
+#social-buttons button {
+ color: white;
+}
+
+.btn-twitter  {
+  background-color: #00acee;
+  border-color: #009ad5;
+}
+
+.btn-facebook  {
+ background-color: #4868ac;
+ border-color: #314776; }
+
+.btn-pintrest  {
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
+
+#buzz h2 {
+  text-align: center;
+}
+
+#mission {
+  background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  text-align: center;
+}
